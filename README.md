@@ -1,5 +1,69 @@
 # Minimalist-Img2Img
+
+
+Minimalist Img2Img with Sklearn
+--------------------------------
 Little neural network with Python Sklearn that learns how to create visual effects from examples
+
+
+
+
+Some results of this Network
+----------------------------
+These examples were inside the Trainin Set:
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a01In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a01Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a02In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a02Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a03In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a03Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a04In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a04Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a05In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a05Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a06In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a06Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a07In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a07Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a08In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/a08Out.bmp?raw=true)
+
+
+These examples were NOT in the Trainin Set:
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b01In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b01Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b02In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b02Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b03In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b03Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b04In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b04Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b05In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b05Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b06In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b06Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b07In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b07Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b08In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b08Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b09In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/b09Out.bmp?raw=true)
+
+
+These examples are funny :-)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c01In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c01Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c02In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c02Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c03In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c03Out.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c04In.bmp?raw=true)
+![alt text](https://github.com/ManuVege/Minimalist-Img2Img/blob/main/Minimalist%20Img2Img/Predict/InputOutputFile/c04Out.bmp?raw=true)
+
+
+
+
+
 
 Presentation
 This code can be configured in different ways to vary all its parameters and fulfill different functions.
@@ -20,9 +84,9 @@ Manual
 The code has two parts: Train and Predict If you are only interested in testing this model, you will only use Predict.
 But if you try to create your own model, you will use Train.
 
-Predict
+predict
 The script uses the file "./InputOutputFile/In.bmp" and creates "./InputOutputFile/Out.bmp"
-This example model is trained with 20x20 pixel BMPs weighing exactly 1338 bytes. With another size, it could not work (the network would have to be trained to use other size).
+This example model is trained with 20x20 pixel BMPs that are exactly 1338 bytes in size. With another weight, it could not work (the network would have to be trained to use another weight).
 I have adapted the different images with ImageMagick and they work perfectly. (convert FILE.BMP -resize 20x20\! FILEOUT.bmp)
 
 Train
@@ -33,10 +97,16 @@ This code is only prepared to work with BMP files and no other format.
 
 Finally the script creates, after training, a file called "network_state.mdl", you must manually copy this file to the Predict folder in order to use it.
 
-You can modify script.py to change the number of neurons, layers, iterations, and more.
+For practical reasons I have uploaded the compressed Training Set, to use it, it is necessary to uncompress first.
+
+You can modify the script.py files to change the number of neurons, layers, iterations, and more.
 Enjoy!
 
-****
+
+
+========================================================================================================================
+Castellano
+========================================================================================================================
 
 Presentacion
 Este codigo puede ser configurado de diferentes maneras para variar todos sus parametros y cumplir diferentes funciones.
@@ -70,5 +140,8 @@ Este codigo solo esta preparado para trabajar con archivos BMP y ningun otro for
 
 Finalmente el script crea, luego del entrenamiento, un archivo llamado "network_state.mdl", debes copiar manualmente este archivo a la carpeta Predict para poder utilizarlo.
 
-Puedes modificar script.py para cambiar la cantidad de neuronas, capas, iteraciones y mas.
+Por cuestiones practicas he subido el Training Set comprimido, para utilizarlo es necesario descomprimir primero.
+
+Puedes modificar los archivos script.py para cambiar la cantidad de neuronas, capas, iteraciones y mas.
 Disfruta!
+
