@@ -104,9 +104,8 @@ Enjoy!
 
 
 
-========================================================================================================================
+---------------------------------
 Castellano
-========================================================================================================================
 
 Presentacion
 Este codigo puede ser configurado de diferentes maneras para variar todos sus parametros y cumplir diferentes funciones.
