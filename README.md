@@ -1,4 +1,4 @@
-# Minimalist-Img2Img
+# Minimalist-Image to Image
 
 
 Minimalist Img2Img with Sklearn
